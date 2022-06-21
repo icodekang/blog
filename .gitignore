@@ -1,0 +1,7 @@
+node_modules
+scaffolds
+themes
+_config.landscape.yml
+package-lock.json
+package.json
+db.json
